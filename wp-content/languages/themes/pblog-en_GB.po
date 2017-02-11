@@ -1,0 +1,345 @@
+# Translation of Themes - PBlog in English (UK)
+# This file is distributed under the same license as the Themes - PBlog package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-29 11:09:44+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: Themes - PBlog\n"
+
+#. Description of the plugin/theme
+msgid "Pblog theme is clean, blog-focused, and designed for personal and creative bloggers. It gives you the freedom to focus on your content and enhance it with great images."
+msgstr "Pblog theme is clean, blog-focused, and designed for personal and creative bloggers. It gives you the freedom to focus on your content and enhance it with great images."
+
+#. Theme Name of the plugin/theme
+msgid "PBlog"
+msgstr "PBlog"
+
+#: inc/customizer.php:52
+msgid "Enable or disable search box on the header"
+msgstr "Enable or disable search box on the header"
+
+#: inc/customizer.php:51
+msgid "Search Box"
+msgstr "Search Box"
+
+#: inc/customizer.php:42
+msgid "From here, you can control the elements of header section"
+msgstr "From here, you can control the elements of the header section"
+
+#: inc/customizer.php:41
+msgid "Header Navigation"
+msgstr "Header Navigation"
+
+#. Template Name of the plugin/theme
+msgid "Full Width Page"
+msgstr "Full Width Page"
+
+#. Template Name of the plugin/theme
+msgid "Contributor Page"
+msgstr "Contributor Page"
+
+#: tag.php:22
+msgid "Tag Archives: %s"
+msgstr "Tag Archives: %s"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:263
+msgid "Continue reading %s"
+msgstr "Continue reading %s"
+
+#: inc/template-tags.php:155
+msgid "Sticky"
+msgstr "Sticky"
+
+#: inc/template-tags.php:92
+msgid "<span class=\"meta-nav\">Next Post</span>%title"
+msgstr "<span class=\"meta-nav\">Next Post</span>%title"
+
+#: inc/template-tags.php:91
+msgid "<span class=\"meta-nav\">Previous Post</span>%title"
+msgstr "<span class=\"meta-nav\">Previous Post</span>%title"
+
+#: inc/template-tags.php:89
+msgid "<span class=\"meta-nav\">Published In</span>%title"
+msgstr "<span class=\"meta-nav\">Published In</span>%title"
+
+#: inc/template-tags.php:85
+msgid "Post navigation"
+msgstr "Post navigation"
+
+#: inc/template-tags.php:58
+msgid "Posts navigation"
+msgstr "Posts navigation"
+
+#: inc/template-tags.php:51
+msgid "Next &rarr;"
+msgstr "Next &rarr;"
+
+#: inc/template-tags.php:50
+msgid "&larr; Previous"
+msgstr "&larr; Previous"
+
+#: inc/featured-content.php:46
+msgid "If this is checked as a featured post, it will be displayed with a full image background once thumbnail is set"
+msgstr "If this is checked as a featured post, it will be displayed with a full image background once the thumbnail is set"
+
+#: inc/featured-content.php:17
+msgid "Is this a featured post?"
+msgstr "Is this a featured post?"
+
+#: inc/customizer.php:87
+msgid "For an in-depth tutorial, and more tips and tricks, visit the <a href=\"%s\">P Blog documentation</a>."
+msgstr "For an in-depth tutorial, and more tips and tricks, visit the <a href=\"%s\">PBlog documentation</a>."
+
+#: inc/customizer.php:86
+msgid "Enhance your site design by using <a href=\"%s\">Featured Images</a> for posts you&rsquo;d like to stand out (also known as post thumbnails). This allows you to associate an image with your post without inserting it. P Blog uses featured images for posts and pages&mdash;above the title&mdash;and in the Featured Content area on the home page."
+msgstr "Enhance your site design by using <a href=\"%s\">Featured Images</a> for posts you&rsquo;d like to stand out (also known as post thumbnails). This allows you to associate an image with your post without inserting it. PBlog uses featured images for posts and pages&mdash;above the title&mdash;and in the Featured Content area on the home page."
+
+#: inc/customizer.php:83
+msgid "P Blog"
+msgstr "PBlog"
+
+#: inc/customizer.php:35 inc/customizer.php:36
+msgid "Background may only be visible on wide screens."
+msgstr "Background may only be visible on wide screens."
+
+#: inc/customizer.php:32 inc/customizer.php:33
+msgid "May only be visible on wide screens."
+msgstr "May only be visible on wide screens."
+
+#: inc/customizer.php:28
+msgid "Display Site Title &amp; Tagline"
+msgstr "Display Site Title &amp; Tagline"
+
+#: inc/customizer.php:24
+msgid "Site Title Color"
+msgstr "Site Title Colour"
+
+#: inc/back-compat.php:37 inc/back-compat.php:47 inc/back-compat.php:60
+msgid "P Blog requires at least WordPress version 3.6. You are running version %s. Please upgrade and try again."
+msgstr "PBlog requires at least WordPress version 3.6. You are running version %s. Please upgrade and try again."
+
+#: image.php:66
+msgid "Next Image"
+msgstr "Next Image"
+
+#: image.php:65
+msgid "Previous Image"
+msgstr "Previous Image"
+
+#: header.php:65
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#: header.php:64
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: header.php:59
+msgid "Search"
+msgstr "Search"
+
+#: functions.php:497
+msgid "Page %s"
+msgstr "Page %s"
+
+#: functions.php:377
+msgid "%d Article"
+msgid_plural "%d Articles"
+msgstr[0] "%d Article"
+msgstr[1] "%d Articles"
+
+#. Translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+#: functions.php:206
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:198
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by PT Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:190
+msgctxt "PT Serif font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by PT Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:182
+msgctxt "PT Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:157
+msgid "Appears in the footer section of the site."
+msgstr "Appears in the footer section of the site."
+
+#: functions.php:155
+msgid "Footer Widget Area"
+msgstr "Footer Widget Area"
+
+#: functions.php:147
+msgid "Main sidebar that appears on the right."
+msgstr "Main sidebar that appears on the right."
+
+#: functions.php:145
+msgid "Primary Sidebar"
+msgstr "Primary Sidebar"
+
+#: functions.php:99
+msgid "Top primary menu"
+msgstr "Top primary menu"
+
+#: footer.php:25
+msgid "Designed by %s"
+msgstr "Designed by %s"
+
+#: footer.php:22
+msgid "Copyright &copy; %1$s %2$s"
+msgstr "Copyright &copy; %1$s %2$s"
+
+#. translators: %s: Name of current post
+#: content-single.php:56
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-single.php:40 content.php:45 content.php:93
+msgid "% Comments"
+msgstr "% Comments"
+
+#: content-single.php:40 content.php:45 content.php:93
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: content-single.php:40 content.php:45 content.php:93
+msgid "Leave a comment"
+msgstr "Leave a comment"
+
+#: content-single.php:27 content.php:26
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: content-page.php:28 content-single.php:44 content.php:49 content.php:97
+#: image.php:34 page-templates/contributors.php:35
+msgid "Edit"
+msgstr "Edit"
+
+#: content-page.php:22 content-single.php:61 image.php:54
+msgid "Pages:"
+msgstr "Pages:"
+
+#: content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: content-none.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: comments.php:59
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:36 comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr "Newer Comments &rarr;"
+
+#: comments.php:35 comments.php:53
+msgid "&larr; Older Comments"
+msgstr "&larr; Older Comments"
+
+#: comments.php:34 comments.php:52
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: comments.php:27
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "One thought on &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#: category.php:20
+msgid "Category Archives: %s"
+msgstr "Category Archives: %s"
+
+#: author.php:36
+msgid "All posts by %s"
+msgstr "All posts by %s"
+
+#: archive.php:48 author.php:45 category.php:32 tag.php:34
+msgid "Latest Posts"
+msgstr "Latest Posts"
+
+#: archive.php:40
+msgid "Archives"
+msgstr "Archives"
+
+#: archive.php:37
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:37
+msgid "Yearly Archives: %s"
+msgstr "Yearly Archives: %s"
+
+#: archive.php:34
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:34
+msgid "Monthly Archives: %s"
+msgstr "Monthly Archives: %s"
+
+#: archive.php:31
+msgid "Daily Archives: %s"
+msgstr "Daily Archives: %s"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "It looks like nothing was found at this location. Maybe try a search?"
+
+#: 404.php:17
+msgid "Not Found"
+msgstr "Not Found"
+
+#. Author URI of the plugin/theme
+msgid "http://ptheme.com/"
+msgstr "http://ptheme.com/"
+
+#. Author of the plugin/theme
+msgid "PTHEME"
+msgstr "PTHEME"
+
+#. Theme URI of the plugin/theme
+msgid "http://ptheme.com/item/pblog-a-responsive-wordpress-theme-for-creative-bloggers/"
+msgstr "http://ptheme.com/item/pblog-a-responsive-wordpress-theme-for-creative-bloggers/"

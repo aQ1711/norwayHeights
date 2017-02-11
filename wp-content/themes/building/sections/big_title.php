@@ -1,0 +1,1 @@
+<div class="home-header-slider"><?php if ( function_exists( 'soliloquy' ) ) { soliloquy( 'welcome-abc-society', 'slug' ); }?></div>

@@ -1,0 +1,130 @@
+#TB_window {
+	z-index: 900001 !important;
+	position: fixed;
+	background: #fff;
+	text-align: left;
+	left: 50%;
+	box-shadow: 0 3px 6px rgba( 0, 0, 0, 0.3 );
+}
+#TB_overlay {
+	z-index: 900000 !important;
+	background: #000;
+	opacity: 0.7;
+	filter: alpha(opacity=70);
+	position: fixed;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+}
+
+
+
+.zerif_repeater_container, .zerif_general_control_repeater_container {
+	width: 100%;
+	float: left;
+	padding: 5px 0;
+	cursor:move;
+}
+.zerif_repeater_container .zerif-box-content-hidden, .zerif_general_control_repeater_container .zerif-box-content-hidden {
+	padding: 5px;
+	border: 1px solid #dfdfdf;
+	border-top:0px;
+	padding-top: 0px;
+}
+button.zerif_remove_field {
+	display: inline-block;
+	width: 25% !important;
+	height: 57px !important;
+	white-space: initial !important;
+	line-height: 17px !important;
+	float: right;
+}
+
+button.zerif_general_control_remove_field {
+	width: 100%;
+	margin-top: 10px!important;
+
+}
+
+button.zerif_general_control_remove_field:hover{
+	background-color:#C83939!important;
+	color:#FFFFFF!important;
+	border: 0;
+}
+
+
+.zerif_repeater_container .zerif_icon_link,  .zerif_general_control_repeater_container .zerif_text_control, .zerif_general_control_repeater_container .zerif_link_control{
+	width: 100% !important;
+	margin: 3px 0 0 !important;
+}
+.zerif_repeater_container .zerif_icons, .zerif_general_control_repeater_container .zerif_icon_control {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+#zerif_new_field, #zerif_general_control_new_field {
+	width: 100%;
+}
+.customize-control-widget_form .widget-control-save {
+	display:block !important;
+}
+
+
+
+.zerif_our_services_image_control{
+	display:none;
+}
+
+.zerif_our_services_icon_control{
+	display:none;
+}
+
+.zerif_general_control_repeater_container .zerif-box-content-hidden{
+	display: none;
+}
+
+.zerif-box-content-hidden{
+	background-color: #FFFFFF;
+}
+
+.zerif-customize-control-title{
+	border: 1px solid #dfdfdf;
+	cursor: move !important;
+	font-weight: bold;
+	padding: 0 10px !important;
+	height: 40px;
+	line-height: 40px !important;
+	background-color: #f1f1f1;
+	background-image: -ms-linear-gradient(top, #f9f9f9, #ececec);
+	background-image: -moz-linear-gradient(top, #f9f9f9, #ececec);
+	background-image: -o-linear-gradient(top, #f9f9f9, #ececec);
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#f9f9f9), to(#ececec));
+	background-image: -webkit-linear-gradient(top, #f9f9f9, #ececec);
+	background-image: linear-gradient(top, #f9f9f9, #ececec);
+	overflow: hidden;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	-moz-box-shadow: inset 0 1px 0 #fff;
+	-webkit-box-shadow: inset 0 1px 0 #fff;
+	box-shadow: inset 0 1px 0 #fff;
+	text-align: center;
+	color:#C83939;
+}
+
+.zerif_image_control .custom_media_button_zerif{
+	margin-top: 5px;
+}
+
+#customize-control-zerif_contact_form_shortcode{
+	display:none;
+}
+
+.zerif_radio_control{
+	margin-top: 0;
+}
+
+.zerif_general_control_repeater_container .zerif-box-content-hidden{
+	padding-top: 5px;
+}

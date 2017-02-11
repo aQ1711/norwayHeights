@@ -1,0 +1,2418 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zerif PRO\n"
+"POT-Creation-Date: 2016-05-13 17:26+0430\n"
+"PO-Revision-Date: 2016-05-16 16:28+0430\n"
+"Last-Translator: Mohammad Mostafa Yousefzadeh <regedit2007@yahoo.com>\n"
+"Language-Team: Mohammad Mostafa Yousefzadeh <regedit2007@yahoo.com>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: archive-download.php:37 archive.php:1
+#, php-format
+msgid "Author: %s"
+msgstr "نویسنده:%s"
+
+#: archive-download.php:39 archive.php:1
+#, php-format
+msgid "Day: %s"
+msgstr "روز:%s"
+
+#: archive-download.php:41 archive.php:1
+#, php-format
+msgid "Month: %s"
+msgstr "ماه:%s"
+
+#: archive-download.php:41 archive.php:1
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive-download.php:43 archive.php:1
+#, php-format
+msgid "Year: %s"
+msgstr "سال: %s"
+
+#: archive-download.php:43 archive.php:1
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive-download.php:45 archive.php:1
+msgid "Asides"
+msgstr "یک سمت"
+
+#: archive-download.php:47 archive.php:1
+msgid "Galleries"
+msgstr "گالری ها"
+
+#: archive-download.php:49 archive.php:1
+msgid "Images"
+msgstr "تصاویر"
+
+#: archive-download.php:51 archive.php:1
+msgid "Videos"
+msgstr "ویدئوها"
+
+#: archive-download.php:53 archive.php:1
+msgid "Quotes"
+msgstr "نقل قول ها"
+
+#: archive-download.php:55 archive.php:1
+msgid "Links"
+msgstr "لینک ها"
+
+#: archive-download.php:57 archive.php:1
+msgid "Statuses"
+msgstr "وضعیت ها"
+
+#: archive-download.php:59 archive.php:1
+msgid "Audios"
+msgstr "صداها"
+
+#: archive-download.php:61 archive.php:1
+msgid "Chats"
+msgstr "گفتگوها"
+
+#: archive-download.php:63 archive.php:1 sidebar.php:1
+msgid "Archives"
+msgstr "بایگانی ها"
+
+#: class-tgm-plugin-activation.php:333 functions.php:547
+msgid "Install Required Plugins"
+msgstr "نصب افزونه های ضروری"
+
+#: class-tgm-plugin-activation.php:334 functions.php:549
+msgid "Install Plugins"
+msgstr "نصب افزونه ها"
+
+#: class-tgm-plugin-activation.php:335 functions.php:551
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "نصب افزونه ها: %s"
+
+#: class-tgm-plugin-activation.php:336 functions.php:553
+msgid "Something went wrong with the plugin API."
+msgstr "یک اتفاق ناخواسته با api افزونه رخ داده است"
+
+#: class-tgm-plugin-activation.php:338 functions.php:555
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "این قالب به افزونه های زیر نیاز ضروری دارد: %1$s."
+
+#: class-tgm-plugin-activation.php:343 functions.php:557
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "این قالب نصب افزونه های زیر را پیشنهاد می کند: %1$s."
+
+#: class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] "متاسفانه شما دسترسی کافی برای نصب این  %1$s  افزونه ها را ندارید."
+
+#: class-tgm-plugin-activation.php:353 functions.php:567
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"افزونه های زیر باید به جدیدترین نسخه بروز شوند تا با قالب کاملا هماهنگ باشد:"
+"%1$s."
+
+#: class-tgm-plugin-activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "برای افزونه های زیر بروزرسانی جدید موجود است:%1$s."
+
+#: class-tgm-plugin-activation.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] "متاسفانه شما دسترسی کافی برای بروزرسانی این %1$s افزونه ها ندارید."
+
+#: class-tgm-plugin-activation.php:368 functions.php:561
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "افزونه های ضروری زیر هنوز فعال نشده اند: %1$s."
+
+#: class-tgm-plugin-activation.php:373 functions.php:563
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "افزونه های پیشنهاد شده زیر هنوز فعال نشده اند: %1$s."
+
+#: class-tgm-plugin-activation.php:378
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] "متاسفانه شما دسترسی کافی برای فعالسازی این  %1$s  افزونه ها ندارید"
+
+#: class-tgm-plugin-activation.php:383 functions.php:571
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "نصب افزونه ها آغاز شد"
+
+#: class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "بروزرسانی افزونه ها آغاز شد"
+
+#: class-tgm-plugin-activation.php:393 functions.php:573
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "فعالسازی افزونه ها آغاز شد"
+
+#: class-tgm-plugin-activation.php:397 functions.php:575
+msgid "Return to Required Plugins Installer"
+msgstr "بازگشت به مرحله نصب افزونه های ضروری"
+
+#: class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr "بازگشت به پیشخوان"
+
+#: class-tgm-plugin-activation.php:399 class-tgm-plugin-activation.php:3029
+#: functions.php:577
+msgid "Plugin activated successfully."
+msgstr "افزونه با موفقیت فعال شد."
+
+#: class-tgm-plugin-activation.php:400 class-tgm-plugin-activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "افزونه های زیر با موفقیت فعال شدند."
+
+#: class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "هیچ اقدامی نیاز نیست. افزونه %1$s فعال می باشد."
+
+#: class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"افزونه فعال نشد.نسخه جدیدتر %s برای این قالب نیاز است. افزونه را بروزرسانی "
+"کنید."
+
+#: class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "همه افزونه ها با موفقیت نصب و فعال شدند. %1$s"
+
+#: class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr "نادیده گرفتن این پیام"
+
+#: class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr "برای کمک بیشتر با مدیریت این سایت تماس بگیرید."
+
+#: class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "این افزونه برای هماهنگی کامل با قالب نیاز به بروزرسانی دارد."
+
+#: class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr "بروزرسانی ضروریست."
+
+#: class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr "تنظیم parent_slug بجای متغیر"
+
+#: class-tgm-plugin-activation.php:828 class-tgm-plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr "بازگشت به پیشخوان"
+
+#: class-tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"بسته افزونه پوشه ای با نامک مورد نظر ندارد و تغییر نام نمی تواند انجام شود."
+
+#: class-tgm-plugin-activation.php:935 class-tgm-plugin-activation.php:938
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"با سازنده افزونه تماس بگیرید و از اون درباره بسته افزونه براساس راهنمای "
+"وردپرس سوال کنید."
+
+#: class-tgm-plugin-activation.php:938
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr "بسته افزونه بیش از یک فایل است اما فایل ها درون پوشه قرار ندارند."
+
+#: class-tgm-plugin-activation.php:1116 class-tgm-plugin-activation.php:2828
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "و"
+
+#: class-tgm-plugin-activation.php:1881
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr "ضروری"
+
+#: class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr "توصیه شده"
+
+#: class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr "مخزن وردپرس"
+
+#: class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr "منبع خارجی"
+
+#: class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr "پکبج آماده نصب"
+
+#: class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr "نصب نشد"
+
+#: class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr "نصب شده اما فعال نیست"
+
+#: class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr "فعال"
+
+#: class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr "بروزرسنای ضروری دردسترس نیست"
+
+#: class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr "بروزرسانی ضروری"
+
+#: class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr "بروزرسانی توصیه شده"
+
+#: class-tgm-plugin-activation.php:2235
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: class-tgm-plugin-activation.php:2280
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "همه<span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2283
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "برای نصب<span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2286
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "آماده بروزرسانی <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2289
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "برای فعالسازی<span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2371
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "ناشناخته"
+
+#: class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr "نسخه نصب شده:"
+
+#: class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr "حداقل نسخه توصیه شده:"
+
+#: class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr "نسخه در دسترس:"
+
+#: class-tgm-plugin-activation.php:2422
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+"افزونه ای برای نصب یا آپدیت و یا فعالسازی نیست. <a href=\"%1$s\">بازگشت به "
+"پیشخوان</a>"
+
+#: class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr "افزونه"
+
+#: class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr "منبع"
+
+#: class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr "نوع"
+
+#: class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr "نسخه"
+
+#: class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr "وضعیت"
+
+#: class-tgm-plugin-activation.php:2491
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "نصب %2$s"
+
+#: class-tgm-plugin-activation.php:2495
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "بروزرسانی %2$s"
+
+#: class-tgm-plugin-activation.php:2500
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "فعالسازی %2$s"
+
+#: class-tgm-plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr "پیام ارتقاء از نویسنده افزونه:"
+
+#: class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr "نصب"
+
+#: class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr "بروزرسانی"
+
+#: class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr "فعالسازی"
+
+#: class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "افزونه ای برای نصب انتخاب نشده است. کاری انجام نشد."
+
+#: class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "افزونه ای برای بروزرسانی انتخاب نشده است. کاری انجام نشد."
+
+#: class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr "افزونه ای برای نصب در حال حاضر موجود نیست."
+
+#: class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr "افزونه ای برای بروزرسانی در حال حاضر موجود نیست."
+
+#: class-tgm-plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "افزونه ای برای فعالسازی انتخاب نشده است. کاری انجام نشد."
+
+#: class-tgm-plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr "افزونه ای برای فعالسازی در حال حاضر موجود نیست."
+
+#: class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr "فعالسازی افزونه با شکست مواجه شد."
+
+#: class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "بروزرسانی افزونه %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "هنگام نصب خطایی رخ داده است %1$s: <strong>%2$s</strong>."
+
+#: class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "نصب%1$s شکست خورد."
+
+#: class-tgm-plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"پروسه نصب و فعالسازی آغاز شده. بسته به نوع میزبانی وب ممکن است دقایقی طول "
+"بکشد.صبور باشید."
+
+#: class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s نصب و فعالسازی انجام شد."
+
+#: class-tgm-plugin-activation.php:3370 class-tgm-plugin-activation.php:3376
+msgid "Show Details"
+msgstr "نشان دادن جزئیات"
+
+#: class-tgm-plugin-activation.php:3370 class-tgm-plugin-activation.php:3376
+msgid "Hide Details"
+msgstr "مخفی کردن جزئیات"
+
+#: class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr "همه نصب ها و فعالسازی ها کامل شد."
+
+#: class-tgm-plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "نصب و فعالسازی افزونه %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"پروسه نصب آغاز شده. بسته به نوع میزبانی وب ممکن است دقایقی طول بکشد.صبور "
+"باشید."
+
+#: class-tgm-plugin-activation.php:3376
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s نصب انجام شد."
+
+#: class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr "همه نصب ها کامل شد."
+
+#: class-tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "نصب افزونه ها %1$s (%2$d/%3$d)"
+
+#: comments.php:25
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+
+#: comments.php:32 comments.php:49
+msgid "Comment navigation"
+msgstr "ناوبری دیدگاه"
+
+#: comments.php:33 comments.php:50
+msgid "&larr; Older Comments"
+msgstr "&larr; دیدگاه های قدیمی"
+
+#: comments.php:34 comments.php:51
+msgid "Newer Comments &rarr;"
+msgstr "دیدگاه های جدید &rarr;"
+
+#: comments.php:60
+msgid "Comments are closed."
+msgstr "دیدگاه ها بسته است."
+
+#: content-large.php:79 content.php:73 sections/latest_news.php:114
+#: sections/latest_news.php:141
+msgid "[...]"
+msgstr "[...]"
+
+#: content-large.php:79 content.php:73 sections/latest_news.php:114
+#: sections/latest_news.php:141
+msgid "about "
+msgstr "درباره"
+
+#: content-large.php:85 content-page-no-title.php:27 content-page.php:1
+#: content-portfolio.php:47 content-single.php:1 content.php:78
+msgid "Pages:"
+msgstr "برگه ها:"
+
+#: content-large.php:121 content-large.php:141 content-single.php:1
+#: content.php:94 content.php:110
+msgid ", "
+msgstr ", "
+
+#: content-large.php:129 content.php:100
+#, php-format
+msgid "Posted in %1$s"
+msgstr "نوشته شده در %1$s"
+
+#: content-large.php:149 content.php:116
+#, php-format
+msgid "Tagged %1$s"
+msgstr "برچسب گذاری توسط %1$s"
+
+#: content-large.php:160 content.php:128
+msgid "Leave a comment"
+msgstr "نوشتن دیدگاه"
+
+#: content-large.php:160 content.php:128
+msgid "1 Comment"
+msgstr "1 دیدگاه"
+
+#: content-large.php:160 content.php:128
+msgid "% Comments"
+msgstr "% دیدگاه ها"
+
+#: content-large.php:164 content-page-no-title.php:37 content-page.php:1
+#: content-portfolio.php:61 content-single.php:1 content.php:134
+msgid "Edit"
+msgstr "ویرایش"
+
+#: content-none.php:1
+msgid "Nothing Found"
+msgstr "یافت نشد"
+
+#: content-none.php:1
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"آماده ای اولین نوشته را منتشر کنید؟ <a href=\"%1$s\">از اینجا آغاز کنید </a>."
+
+#: content-none.php:1
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"متاسفانه چیزی بر اساس جستجوی شما یافت نشد. با کلمات دیگری مجدد جستجو کنید."
+
+#: content-none.php:1
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"بنظر میرسد نمی توان چیزی را که میخواهید پیدا کنید. شاید جستجو بتواند کمکتان "
+"کند."
+
+#: footer.php:61 inc/customizer.php:1115 inc/customizer.php:1418
+msgid "Company address"
+msgstr "آدرس شرکت"
+
+#: footer.php:210 functions.php:1208
+msgid "Facebook"
+msgstr "فیسبوک"
+
+#: footer.php:218 functions.php:1214
+msgid "Twitter"
+msgstr "توئیتر"
+
+#: footer.php:226 functions.php:1232
+msgid "LinkedIn"
+msgstr "لینکدین"
+
+#: footer.php:234 functions.php:1220
+msgid "Behance"
+msgstr "بیهانس"
+
+#: footer.php:242 functions.php:1226
+msgid "Dribbble"
+msgstr "دریبل"
+
+#: footer.php:250 functions.php:1238
+msgid "Google Plus"
+msgstr "گوگل پلاس"
+
+#: footer.php:258 functions.php:1244
+msgid "Pinterest"
+msgstr "پینترست"
+
+#: footer.php:267 functions.php:1250
+msgid "Tumblr"
+msgstr "تامبلر"
+
+#: footer.php:275 functions.php:1256
+msgid "Reddit"
+msgstr "ردیت"
+
+#: footer.php:283 functions.php:1262
+msgid "YouTube"
+msgstr "یوتیوب"
+
+#: footer.php:291 functions.php:1268
+msgid "Instagram"
+msgstr "اینستاگرام"
+
+#: front-page.php:57
+msgid "* Please enter your name."
+msgstr "* نام خود را وارد کنید."
+
+#: front-page.php:78
+msgid "* Please enter your email address."
+msgstr "* ایمیل معتبر خود را وارد کنید."
+
+#: front-page.php:87
+msgid "* You entered an invalid email address."
+msgstr "* آدرس ایمیل شما معتبر نیست."
+
+#: front-page.php:108
+msgid "* Please enter a subject."
+msgstr "* موضوع را بنویسید."
+
+#: front-page.php:129
+msgid "* Please enter a message."
+msgstr "* متن پیامتان را وارد کنید."
+
+#: front-page.php:415
+msgid "Thanks, your email was sent successfully!"
+msgstr "با تشکر. ایمیل شما با موفقیت ارسال شد."
+
+#: front-page.php:419
+msgid "Sorry, an error occured. The email could not be sent."
+msgstr "متاسفانه خطایی رخ داده. ایمیل ارسال نشد."
+
+#: functions.php:97
+msgid "Primary Menu"
+msgstr "فهرست اصلی"
+
+#: functions.php:163 inc/customizer.php:119 inc/customizer.php:146
+#: inc/customizer.php:173 inc/customizer.php:200 inc/customizer.php:227
+#: inc/customizer.php:254 inc/customizer.php:281 inc/customizer.php:308
+#: inc/customizer.php:335 inc/customizer.php:362 inc/customizer.php:389
+#: inc/customizer.php:416 sections/our_focus.php:1
+msgid "Our focus"
+msgstr "تمرکز ما"
+
+#: functions.php:163 inc/customizer.php:122 inc/customizer.php:149
+#: inc/customizer.php:176 inc/customizer.php:203 inc/customizer.php:230
+#: inc/customizer.php:257 inc/customizer.php:284 inc/customizer.php:311
+#: inc/customizer.php:338 inc/customizer.php:365 inc/customizer.php:392
+#: inc/customizer.php:419
+msgid "Our team"
+msgstr "تیم ما"
+
+#: functions.php:163 functions.php:897
+msgid "Testimonial"
+msgstr "گواهی نامه"
+
+#: functions.php:163
+msgid "Client logo"
+msgstr "لوگوی مشتری"
+
+#: functions.php:187 functions.php:189 inc/customizer.php:120
+#: inc/customizer.php:147 inc/customizer.php:174 inc/customizer.php:201
+#: inc/customizer.php:228 inc/customizer.php:255 inc/customizer.php:282
+#: inc/customizer.php:309 inc/customizer.php:336 inc/customizer.php:363
+#: inc/customizer.php:390 inc/customizer.php:417 inc/customizer.php:2490
+#: inc/customizer.php:2640 sections/portfolio.php:1
+msgid "Portfolio"
+msgstr "نمونه کار"
+
+#: functions.php:228
+msgid "Sidebar"
+msgstr "سایدبار"
+
+#: functions.php:237
+msgid "Our focus section widgets"
+msgstr "بخش ابزارک تمرکز ما"
+
+#: functions.php:245
+msgid "Testimonials section widgets"
+msgstr "بخش ابزارک گواهی نامه ها"
+
+#: functions.php:254
+msgid "About us section widgets"
+msgstr "بخش ابزارک درباره ما"
+
+#: functions.php:263
+msgid "Our team section widgets"
+msgstr "بخش ابزارک تیم ما"
+
+#: functions.php:272
+msgid "Packages section widgets"
+msgstr "بخش ابزارک پکیج ها"
+
+#: functions.php:281
+msgid "Subscribe section widgets"
+msgstr "بخش ابزارک اشتراک"
+
+#: functions.php:292
+#, php-format
+msgid "Footer area %d"
+msgstr "ناحیه پانوشت %d"
+
+#: functions.php:559
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+"متاسفانه دسترسی کافی برای نصب افزونه ندارید %s. با مدیریت سایت برای نصب این "
+"افزونه و کسب مجوز تماس بگیرید."
+
+#: functions.php:565
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"متاسفانه دسترسی کافی برای فعال کردن این افزونه ندارید %s . برای فعال کردن "
+"این افزونه با مدیریت سایت تماس بگیرید."
+
+#: functions.php:569
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"متاسفانه برای بروزرسانی این افزونه دسترسی کافی ندارید %s . برای بروزرسانی "
+"این افزونه و کسب مجوز با مدیریت سایت تماس بگیرید."
+
+#: functions.php:579
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "همه افزونه ها با موفقیت نصب و فعال شد. %s"
+
+#: functions.php:632
+msgid "Default title"
+msgstr "عنوان پیشفرض"
+
+#: functions.php:765 functions.php:1793 inc/customizer.php:2800
+#: inc/customizer.php:2838 inc/customizer.php:2896 inc/customizer.php:2953
+#: inc/customizer.php:3010 inc/customizer.php:3126 inc/customizer.php:3179
+#: sections/about_us.php:1
+msgid "Title"
+msgstr "عنوان"
+
+#: functions.php:773 functions.php:973 inc/customizer.php:2850
+#: inc/customizer.php:2908 inc/customizer.php:2965 inc/customizer.php:3022
+msgid "Text"
+msgstr "متن"
+
+#: functions.php:784 functions.php:1093
+msgid "Link"
+msgstr "لینک"
+
+#: functions.php:792 functions.php:1851
+msgid "Open link in new window?"
+msgstr "باز کردن لینک در پنجره جدید؟"
+
+#: functions.php:796 functions.php:980 functions.php:1106 functions.php:1536
+msgid "Image:"
+msgstr "تصویر:"
+
+#: functions.php:949
+msgid "Author"
+msgstr "نویسنده"
+
+#: functions.php:957
+msgid "Author link"
+msgstr "لینک نویسنده"
+
+#: functions.php:965
+msgid "Author details"
+msgstr "جزئیات نویسنده"
+
+#: functions.php:1084
+msgid "Alt Title"
+msgstr "عنوان Alt"
+
+#: functions.php:1102
+msgid "Open in new tab"
+msgstr "باز کردن در تب جدید"
+
+#: functions.php:1176
+msgid "Team member"
+msgstr "اعضای تیم"
+
+#: functions.php:1274 inc/customizer.php:1072 inc/customizer.php:1375
+msgid "Email"
+msgstr "ایمیل"
+
+#: functions.php:1280
+msgid "Website"
+msgstr "وبسایت"
+
+#: functions.php:1284
+msgid "Phone Number"
+msgstr "شماره تلفن"
+
+#: functions.php:1368
+msgid "Name"
+msgstr "نام"
+
+#: functions.php:1386
+msgid "Position"
+msgstr "موقعیت"
+
+#: functions.php:1396
+msgid "Description"
+msgstr "توضیحات"
+
+#: functions.php:1404
+msgid "Profile link"
+msgstr "لینک پروفایل"
+
+#: functions.php:1414 inc/customizer.php:1137 inc/customizer.php:1440
+msgid "Facebook link"
+msgstr "لینک فیسبوک"
+
+#: functions.php:1424 inc/customizer.php:1149 inc/customizer.php:1452
+msgid "Twitter link"
+msgstr "لینک توئیتر"
+
+#: functions.php:1434 inc/customizer.php:1173 inc/customizer.php:1476
+msgid "Behance link"
+msgstr "لینک بیهانس"
+
+#: functions.php:1444
+msgid "Dribble link"
+msgstr "لینک دریبل"
+
+#: functions.php:1452 inc/customizer.php:1161 inc/customizer.php:1464
+msgid "Linkedin link"
+msgstr "لینک لینکدین"
+
+#: functions.php:1460 inc/customizer.php:1196 inc/customizer.php:1499
+msgid "Google+ link"
+msgstr "لیکن گوگل پلاس"
+
+#: functions.php:1468 inc/customizer.php:1207 inc/customizer.php:1510
+msgid "Pinterest link"
+msgstr "لینک پینترست"
+
+#: functions.php:1476 inc/customizer.php:1218 inc/customizer.php:1521
+msgid "Tumblr link"
+msgstr "لینک تامبلر"
+
+#: functions.php:1484 inc/customizer.php:1229 inc/customizer.php:1532
+msgid "Reddit link"
+msgstr "لینک ردیت"
+
+#: functions.php:1492 inc/customizer.php:1240 inc/customizer.php:1543
+msgid "YouTube link"
+msgstr "لینک یوتیوب"
+
+#: functions.php:1500 inc/customizer.php:1251 inc/customizer.php:1554
+msgid "Instagram link"
+msgstr "لینک اینستاگرام"
+
+#: functions.php:1508
+msgid "Email link"
+msgstr "لینک ایمیل"
+
+#: functions.php:1516
+msgid "Website link"
+msgstr "لینک وب سایت"
+
+#: functions.php:1524 inc/customizer.php:1096 inc/customizer.php:1394
+#: inc/customizer.php:1398
+msgid "Phone number"
+msgstr "شماره تلفن"
+
+#: functions.php:1532
+msgid "Open links in new window?"
+msgstr "باز کردن لینک در پنجره جدید؟"
+
+#: functions.php:1560
+msgctxt "widget title"
+msgid "Zerif - Package widget"
+msgstr "Zerif - پکیج ابزارک"
+
+#: functions.php:1786
+msgid "Color:"
+msgstr "رنگ:"
+
+#: functions.php:1801 inc/customizer.php:2162 inc/customizer.php:2317
+#: inc/customizer.php:2508 inc/customizer.php:2656 inc/customizer.php:2792
+#: inc/customizer.php:3171 inc/customizer.php:3475 inc/customizer.php:3653
+#: inc/customizer.php:3856 inc/customizer.php:3986 inc/customizer.php:4671
+#: inc/customizer.php:4863 inc/customizer.php:5079 inc/customizer.php:5221
+#: inc/customizer.php:5439 inc/customizer.php:5620 inc/customizer.php:5809
+#: inc/customizer.php:5926
+msgid "Subtitle"
+msgstr "زیرنویس"
+
+#: functions.php:1809
+msgid "Price"
+msgstr "قیمت"
+
+#: functions.php:1817
+msgid "Currency"
+msgstr "واحد پول"
+
+#: functions.php:1825
+msgid "Price meta (e.g. /MONTH)"
+msgstr "متای قیمت (e.g. /ماه)"
+
+#: functions.php:1833 inc/customizer.php:4110 inc/customizer.php:4233
+msgid "Button label"
+msgstr "لیبل دکمه"
+
+#: functions.php:1841 inc/customizer.php:4123 inc/customizer.php:4246
+msgid "Button link"
+msgstr "لینک دکمه"
+
+#: functions.php:1857
+msgid "Item 1"
+msgstr "آیتم 1"
+
+#: functions.php:1865
+msgid "Item 2"
+msgstr "آیتم 2"
+
+#: functions.php:1873
+msgid "Item 3"
+msgstr "آیتم 3"
+
+#: functions.php:1881
+msgid "Item 4"
+msgstr "آیتم 4"
+
+#: functions.php:1889
+msgid "Item 5"
+msgstr "آیتم 5"
+
+#: functions.php:1897
+msgid "Item 6"
+msgstr "آیتم 6"
+
+#: functions.php:1905
+msgid "Item 7"
+msgstr "آیتم 7"
+
+#: functions.php:1913
+msgid "Item 8"
+msgstr "آیتم 8"
+
+#: functions.php:1921
+msgid "Item 9"
+msgstr "آیتم 9"
+
+#: functions.php:1929
+msgid "Item 10"
+msgstr "آیتم 10"
+
+#: inc/customizer.php:41
+msgid "Enable video sound?"
+msgstr "فعال کردن صدای ویدئو"
+
+#: inc/customizer.php:71
+msgid ""
+"You can insert any HTML code in here, to create links, google maps or "
+"anything else."
+msgstr ""
+"میتوانید اینجا هر کد HTML  برای ایجاد لینک مانند نقشه گوگل یا هرچیزه دیگه ای "
+"وارد کنید."
+
+#: inc/customizer.php:77
+msgid "The main content of this section consists of blog posts."
+msgstr "محتوای اصلی این بخش شامل نوشته های بلاگ می باشد."
+
+#: inc/customizer.php:83
+msgid ""
+"To have full control over the colors on homepage sections please visit each "
+"section options in Customizer."
+msgstr ""
+"برای کنترل کامل بر روی رنگ های صفحه اصلی لطفا به تنظیمات بخش سفارشی آن "
+"مراجعه کنید."
+
+#: inc/customizer.php:89
+msgid ""
+"You can install <a href=\"https://wordpress.org/plugins/intergeo-maps/\" "
+"taget=\"_blank\">WordPress Google Maps Plugin</a> to get more advanced maps "
+"option."
+msgstr ""
+"میتوانید نصب کنید<a href=\"https://wordpress.org/plugins/intergeo-maps/\" "
+"taget=\"_blank\">افزونه نقشه گوگل وردپرس</a> برای دریافت تنظیمات پیشرفته "
+"نقشه ها."
+
+#: inc/customizer.php:103
+msgid "Sections order"
+msgstr "بخش های سفارشی"
+
+#: inc/customizer.php:104
+msgid "Here is where you can rearrange the homepage sections."
+msgstr "اینجا قسمتی است که می توانید بخش های صفحه اصلی را مجدد بچینید."
+
+#: inc/customizer.php:121 inc/customizer.php:148 inc/customizer.php:175
+#: inc/customizer.php:202 inc/customizer.php:229 inc/customizer.php:256
+#: inc/customizer.php:283 inc/customizer.php:310 inc/customizer.php:337
+#: inc/customizer.php:364 inc/customizer.php:391 inc/customizer.php:418
+msgid "About us"
+msgstr "درباره ما (ترجمه رسمی توسط http://www.cgworld.asia )"
+
+#: inc/customizer.php:123 inc/customizer.php:150 inc/customizer.php:177
+#: inc/customizer.php:204 inc/customizer.php:231 inc/customizer.php:258
+#: inc/customizer.php:285 inc/customizer.php:312 inc/customizer.php:339
+#: inc/customizer.php:366 inc/customizer.php:393 inc/customizer.php:420
+#: inc/customizer.php:3839 inc/customizer.php:3971
+msgid "Testimonials"
+msgstr "گواهی نامه ها"
+
+#: inc/customizer.php:124 inc/customizer.php:151 inc/customizer.php:178
+#: inc/customizer.php:205 inc/customizer.php:232 inc/customizer.php:259
+#: inc/customizer.php:286 inc/customizer.php:313 inc/customizer.php:340
+#: inc/customizer.php:367 inc/customizer.php:394 inc/customizer.php:421
+msgid "Bottom ribbon"
+msgstr "ریبون پائین"
+
+#: inc/customizer.php:125 inc/customizer.php:152 inc/customizer.php:179
+#: inc/customizer.php:206 inc/customizer.php:233 inc/customizer.php:260
+#: inc/customizer.php:287 inc/customizer.php:314 inc/customizer.php:341
+#: inc/customizer.php:368 inc/customizer.php:395 inc/customizer.php:422
+msgid "Right ribbon"
+msgstr "ریبون راست"
+
+#: inc/customizer.php:126 inc/customizer.php:153 inc/customizer.php:180
+#: inc/customizer.php:207 inc/customizer.php:234 inc/customizer.php:261
+#: inc/customizer.php:288 inc/customizer.php:315 inc/customizer.php:342
+#: inc/customizer.php:369 inc/customizer.php:396 inc/customizer.php:423
+msgid "Contact us"
+msgstr "تماس با ما"
+
+#: inc/customizer.php:127 inc/customizer.php:154 inc/customizer.php:181
+#: inc/customizer.php:208 inc/customizer.php:235 inc/customizer.php:262
+#: inc/customizer.php:289 inc/customizer.php:316 inc/customizer.php:343
+#: inc/customizer.php:370 inc/customizer.php:397 inc/customizer.php:424
+msgid " Packages"
+msgstr "پکیج ها"
+
+#: inc/customizer.php:128 inc/customizer.php:155 inc/customizer.php:182
+#: inc/customizer.php:209 inc/customizer.php:236 inc/customizer.php:263
+#: inc/customizer.php:290 inc/customizer.php:317 inc/customizer.php:344
+#: inc/customizer.php:371 inc/customizer.php:398 inc/customizer.php:425
+msgid "Google map"
+msgstr "نقشه گوگل"
+
+#: inc/customizer.php:129 inc/customizer.php:156 inc/customizer.php:183
+#: inc/customizer.php:210 inc/customizer.php:237 inc/customizer.php:264
+#: inc/customizer.php:291 inc/customizer.php:318 inc/customizer.php:345
+#: inc/customizer.php:372 inc/customizer.php:399 inc/customizer.php:426
+msgid "Subscribe"
+msgstr "اشتراک"
+
+#: inc/customizer.php:130 inc/customizer.php:157 inc/customizer.php:184
+#: inc/customizer.php:211 inc/customizer.php:238 inc/customizer.php:265
+#: inc/customizer.php:292 inc/customizer.php:319 inc/customizer.php:346
+#: inc/customizer.php:373 inc/customizer.php:400 inc/customizer.php:427
+msgid "Latest news"
+msgstr "جدیدترین اخبار"
+
+#: inc/customizer.php:442 inc/customizer.php:714 inc/customizer.php:1676
+#: inc/customizer.php:2170 inc/customizer.php:2536 inc/customizer.php:3054
+#: inc/customizer.php:3484 inc/customizer.php:3864 inc/customizer.php:4743
+#: inc/customizer.php:5087 inc/customizer.php:5461 inc/customizer.php:5817
+msgid "Colors"
+msgstr "رنگ ها"
+
+#: inc/customizer.php:448
+msgid "Homepage sections"
+msgstr "بخش های صفحه اصلی"
+
+#: inc/customizer.php:462
+msgid "Footer colors"
+msgstr "رنگ های پانوشت"
+
+#: inc/customizer.php:475 inc/customizer.php:726
+msgid "Footer background color"
+msgstr "رنگ پس زمینه پانوشت"
+
+#: inc/customizer.php:488 inc/customizer.php:738
+msgid "Footer socials background color"
+msgstr "رنگ پس زمینه شبکه های اجتماعی پانوشت"
+
+#: inc/customizer.php:501 inc/customizer.php:750
+msgid "Footer text color"
+msgstr "رنگ فونت پانوشت"
+
+#: inc/customizer.php:513 inc/customizer.php:762
+msgid "Footer text color - hover"
+msgstr "رنگ فونت هوور پانوشت"
+
+#: inc/customizer.php:526 inc/customizer.php:774
+msgid "Footer social icons color"
+msgstr "رنگ آیکون های شبکه های اجتماعی پانوشت"
+
+#: inc/customizer.php:538 inc/customizer.php:786
+msgid "Footer socials icons color - hover"
+msgstr "رنگ آیکون های هوور شده شبکه های اجتماعی پانوشت"
+
+#: inc/customizer.php:551 inc/customizer.php:798
+msgid "Footer widgets title color"
+msgstr "رنگ عنوان ابزارک هایا پانوشت"
+
+#: inc/customizer.php:563 inc/customizer.php:810
+msgid "Footer widgets title bottom border color"
+msgstr "رنگ بردر پائین عنوان ابزارک های پانوشت"
+
+#: inc/customizer.php:571
+msgid "General colors"
+msgstr "رنگ های عمومی"
+
+#: inc/customizer.php:584 inc/customizer.php:822 inc/customizer.php:1689
+#: inc/customizer.php:1944 inc/customizer.php:2183 inc/customizer.php:2329
+#: inc/customizer.php:2549 inc/customizer.php:2681 inc/customizer.php:3067
+#: inc/customizer.php:3351 inc/customizer.php:3497 inc/customizer.php:3665
+#: inc/customizer.php:3877 inc/customizer.php:3998 inc/customizer.php:4137
+#: inc/customizer.php:4260 inc/customizer.php:4756 inc/customizer.php:4947
+#: inc/customizer.php:5099 inc/customizer.php:5474 inc/customizer.php:5633
+#: inc/customizer.php:5830 inc/customizer.php:5939
+msgid "Background color"
+msgstr "رنگ پس زمینه"
+
+#: inc/customizer.php:597 inc/customizer.php:834
+msgid "Navbar background color"
+msgstr "رنگ پس زمینه ناوبری"
+
+#: inc/customizer.php:610 inc/customizer.php:846 inc/customizer.php:3081
+#: inc/customizer.php:3364 inc/customizer.php:3511 inc/customizer.php:3678
+msgid "Titles color"
+msgstr "رنگ عناوین"
+
+#: inc/customizer.php:622 inc/customizer.php:858
+msgid "Titles bottom border color"
+msgstr "رنگ بردر پائینی عناوین"
+
+#: inc/customizer.php:635 inc/customizer.php:870 inc/customizer.php:4151
+#: inc/customizer.php:4274
+msgid "Text color"
+msgstr "رنگ متن"
+
+#: inc/customizer.php:648 inc/customizer.php:882
+msgid "Links color"
+msgstr "رنگ لینک ها"
+
+#: inc/customizer.php:660 inc/customizer.php:894
+msgid "Links color hover"
+msgstr "رنگ لینک های هوور شده"
+
+#: inc/customizer.php:668
+msgid "Buttons colors"
+msgstr "رنگ دکمه ها"
+
+#: inc/customizer.php:681 inc/customizer.php:906
+msgid "Buttons background color"
+msgstr "رنگ پس زمینه دکمه ها"
+
+#: inc/customizer.php:693 inc/customizer.php:918
+msgid "Buttons background color - hover"
+msgstr "رنگ پس زمینه دکمه های هوور شده"
+
+#: inc/customizer.php:706 inc/customizer.php:930
+msgid "Buttons text color"
+msgstr "رنگ متن دکمه ها"
+
+#: inc/customizer.php:716
+msgid "Zerif theme colors"
+msgstr "رنگ های قالب Zerif"
+
+#: inc/customizer.php:947 inc/customizer.php:951 inc/customizer.php:1259
+msgid "General options"
+msgstr "تنظیمات عمومی"
+
+#: inc/customizer.php:963 inc/customizer.php:1271
+msgid "Use safe font?"
+msgstr "استفاده از فونت امن؟"
+
+#: inc/customizer.php:976 inc/customizer.php:1320
+msgid "Disable preloader?"
+msgstr "غیرفعال کردن پیش باگذاری؟"
+
+#: inc/customizer.php:988 inc/customizer.php:1332
+msgid "Disable smooth scroll?"
+msgstr "غیرفعال کردن اسکرول نرم؟"
+
+#: inc/customizer.php:999 inc/customizer.php:1283
+msgid "Logo"
+msgstr "لوگو"
+
+#: inc/customizer.php:1012
+msgid "Footer Copyright"
+msgstr "کپی رایت پانوشت"
+
+#: inc/customizer.php:1023 inc/customizer.php:1308
+msgid "Google analytics code"
+msgstr "کد گوگل آنلایز"
+
+#: inc/customizer.php:1035 inc/customizer.php:1351
+msgid "Change the template to Full width for all the pages?"
+msgstr "تغییر قالب به تمام صفحه برای همه برگه ها؟"
+
+#: inc/customizer.php:1041
+msgid "Footer sections"
+msgstr "بخش های پانوشت"
+
+#: inc/customizer.php:1060 inc/customizer.php:1363
+msgid "Email section - icon"
+msgstr "آیکون - بخش ایمیل"
+
+#: inc/customizer.php:1084 inc/customizer.php:1387
+msgid "Phone number section - icon"
+msgstr "آیکون - بخش شماره تلفن"
+
+#: inc/customizer.php:1108 inc/customizer.php:1410
+msgid "Address section - icon"
+msgstr "آیکون - بخش آدرس"
+
+#: inc/customizer.php:1119 inc/customizer.php:1423
+msgid "Address"
+msgstr "آدرس"
+
+#: inc/customizer.php:1125 inc/customizer.php:1429
+msgid "Socials options"
+msgstr "تنظیمات شبکه های اجتماعی"
+
+#: inc/customizer.php:1185 inc/customizer.php:1488
+msgid "Dribbble link"
+msgstr "لینک دریبل"
+
+#: inc/customizer.php:1261
+msgid "Zerif theme general options"
+msgstr "تنظیمات عمومی قالب Zerif"
+
+#: inc/customizer.php:1296
+msgid "Copyright"
+msgstr "کپی رایت"
+
+#: inc/customizer.php:1370
+msgid "Company email"
+msgstr "ایمیل شرکت"
+
+#: inc/customizer.php:1571 inc/customizer.php:1856
+msgid "Big title section"
+msgstr "بخش عنوان بزرگ"
+
+#: inc/customizer.php:1577 inc/customizer.php:2114 inc/customizer.php:2437
+#: inc/customizer.php:2744 inc/customizer.php:3427 inc/customizer.php:3796
+#: inc/customizer.php:4576 inc/customizer.php:5031 inc/customizer.php:5391
+#: inc/customizer.php:5761
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: inc/customizer.php:1590 inc/customizer.php:1867
+msgid "Hide big title section?"
+msgstr "مخفی کردن بخش عنوان بزرگ؟"
+
+#: inc/customizer.php:1591 inc/customizer.php:1868
+msgid ""
+"If you check this box, the Big title section will disappear from homepage."
+msgstr "اگر این جعبه را فعال کنید بخش عنوان بزرگ در صفحه اصلی مخفی می شود."
+
+#: inc/customizer.php:1599 inc/customizer.php:2482
+msgid "Content"
+msgstr "محتوا"
+
+#: inc/customizer.php:1607 inc/customizer.php:1876 sections/big_title.php:1
+msgid "To add a title here please go to Customizer, \"Big title section\""
+msgstr ""
+"برای اضافه کردن متن در اینجا به بخش سفارشی رفته و وارد \"قسمت عنوان بزرگ\" "
+"شوید."
+
+#: inc/customizer.php:1612 inc/customizer.php:1880
+msgid "Big title"
+msgstr "عنوان بزرگ"
+
+#: inc/customizer.php:1620 inc/customizer.php:1888 sections/big_title.php:1
+msgid "One button"
+msgstr "یک دکمه"
+
+#: inc/customizer.php:1625 inc/customizer.php:1892
+msgid "First button label"
+msgstr "لیبل اولین دکمه"
+
+#: inc/customizer.php:1626 inc/customizer.php:1893
+msgid "This is the text that will appear on the first button"
+msgstr "این متنی است که بر روی اولین دکمه ظاهر می شود."
+
+#: inc/customizer.php:1639 inc/customizer.php:1905
+msgid "First button link"
+msgstr "لینک اولین دکمه"
+
+#: inc/customizer.php:1640 inc/customizer.php:1906
+msgid "The first button is linked to this URL"
+msgstr "اولین دکمه به این آدرس لینک میشود"
+
+#: inc/customizer.php:1648 inc/customizer.php:1914 sections/big_title.php:1
+msgid "Another button"
+msgstr "دکمه های دیگر"
+
+#: inc/customizer.php:1653 inc/customizer.php:1918
+msgid "Second button label"
+msgstr "لیبل دومین دکمه"
+
+#: inc/customizer.php:1654 inc/customizer.php:1919
+msgid "This is the text that will appear on the second button"
+msgstr "این متنی است که بر روی دومین دکمه ظاهر می شود."
+
+#: inc/customizer.php:1667 inc/customizer.php:1931
+msgid "Second button link"
+msgstr "لینک دومین دکمه"
+
+#: inc/customizer.php:1668 inc/customizer.php:1932
+msgid "The second button is linked to this URL"
+msgstr "دومین دکمه به این آدرس لینک میشود."
+
+#: inc/customizer.php:1703 inc/customizer.php:1957
+msgid "Big title color"
+msgstr "رنگ عنوان بزرگ"
+
+#: inc/customizer.php:1716 inc/customizer.php:1969
+msgid "First button background color"
+msgstr "رنگ پس زمینه اولین دکمه"
+
+#: inc/customizer.php:1728 inc/customizer.php:1981
+msgid "First button background color - hover"
+msgstr "هوور - رنگ پس زمینه اولین دکمه"
+
+#: inc/customizer.php:1741 inc/customizer.php:1993
+msgid "First button text color"
+msgstr "رنگ متن اولین دکمه"
+
+#: inc/customizer.php:1753 inc/customizer.php:2005
+msgid "First button text color - hover"
+msgstr "هوور - رنگ متن اولین دکمه"
+
+#: inc/customizer.php:1766 inc/customizer.php:2017
+msgid "Second button background color"
+msgstr "رنگ پس زمینه دومین دکمه"
+
+#: inc/customizer.php:1778 inc/customizer.php:2029
+msgid "Second button background color - hover"
+msgstr "هوور - رنگ پس زمینه دومین دکمه"
+
+#: inc/customizer.php:1791 inc/customizer.php:2041
+msgid "Second button text color"
+msgstr "رنگ متن دومین دکمه"
+
+#: inc/customizer.php:1803 inc/customizer.php:2053
+msgid "Second button text color - hover"
+msgstr "هوور - رنگ متن دومین دکمه"
+
+#: inc/customizer.php:1810
+msgid "Parallax effect"
+msgstr "افکت پارالاکس"
+
+#: inc/customizer.php:1822 inc/customizer.php:2065
+msgid "Use parallax effect?"
+msgstr "بکاربردن افکت پارالاکس؟"
+
+#: inc/customizer.php:1834 inc/customizer.php:6051 inc/customizer.php:6316
+msgid "Image 1"
+msgstr "تصویر 1"
+
+#: inc/customizer.php:1847 inc/customizer.php:6110 inc/customizer.php:6378
+msgid "Image 2"
+msgstr "تصویر 2"
+
+#: inc/customizer.php:2077
+msgid "Parallax image 1"
+msgstr "پارالاکس تصویر 1"
+
+#: inc/customizer.php:2090
+msgid "Parallax image 2"
+msgstr "پارالاکس تصویر 2"
+
+#: inc/customizer.php:2108 inc/customizer.php:2279
+msgid "Our focus section"
+msgstr "بخش تمرکز ما"
+
+#: inc/customizer.php:2127 inc/customizer.php:2291
+msgid "Hide our focus section?"
+msgstr "مخفی کردن بخش تمرکز ما؟"
+
+#: inc/customizer.php:2128 inc/customizer.php:2292
+msgid ""
+"If you check this box, the Our focus section will disappear from homepage."
+msgstr "اگر این گزینه را فعال کنید بخش تمرکز ما از صفحه اصلی حذف میشود."
+
+#: inc/customizer.php:2136 inc/customizer.php:3449 inc/customizer.php:3831
+#: inc/customizer.php:5053 inc/customizer.php:5413 inc/customizer.php:5783
+msgid "Header"
+msgstr "سربرگ"
+
+#: inc/customizer.php:2144 inc/customizer.php:2301
+msgid "Our Focus"
+msgstr "تمرکز ما"
+
+#: inc/customizer.php:2149 inc/customizer.php:2305 inc/customizer.php:2495
+#: inc/customizer.php:2644 inc/customizer.php:2779 inc/customizer.php:3159
+#: inc/customizer.php:3462 inc/customizer.php:3641 inc/customizer.php:3844
+#: inc/customizer.php:3975 inc/customizer.php:4659 inc/customizer.php:4852
+#: inc/customizer.php:5066 inc/customizer.php:5209 inc/customizer.php:5426
+#: inc/customizer.php:5607 inc/customizer.php:5796 inc/customizer.php:5914
+msgid "Main title"
+msgstr "عنوان اصلی"
+
+#: inc/customizer.php:2157 inc/customizer.php:2313 sections/our_focus.php:1
+msgid "Add a subtitle in Customizer, \"Our focus section\""
+msgstr "افزودن زیرنویس در سفارشی\"بخش تمرکز ما\""
+
+#: inc/customizer.php:2197 inc/customizer.php:2341 inc/customizer.php:2563
+#: inc/customizer.php:2694
+msgid "Main title and subtitle colors"
+msgstr "رنگ های زیرنویس و عنوان اصلی"
+
+#: inc/customizer.php:2210 inc/customizer.php:2353
+msgid "Box title color"
+msgstr "رنگ عنوان باکس"
+
+#: inc/customizer.php:2223 inc/customizer.php:2365
+msgid "Box text color"
+msgstr "رنگ متن باکس"
+
+#: inc/customizer.php:2235 inc/customizer.php:2377
+msgid "First box border color hover"
+msgstr "هوور رنگ بردر باکس اول"
+
+#: inc/customizer.php:2247 inc/customizer.php:2389
+msgid "Second box border color hover"
+msgstr "هوور رنگ بردر باکس دوم"
+
+#: inc/customizer.php:2259 inc/customizer.php:2400
+msgid "Third box border color hover"
+msgstr "هور رنگ بردر باکس سوم"
+
+#: inc/customizer.php:2271 inc/customizer.php:2412
+msgid "Fourth box border color hover"
+msgstr "هوور رنگ بردر باکس چهارم"
+
+#: inc/customizer.php:2431 inc/customizer.php:2596
+msgid "Portfolio section"
+msgstr "بخش نمونه کار"
+
+#: inc/customizer.php:2449 inc/customizer.php:2607
+msgid "Hide portfolio section?"
+msgstr "بخش نمونه کار مخفی شود؟"
+
+#: inc/customizer.php:2450 inc/customizer.php:2608
+msgid ""
+"If you check this box, the Portfolio section will disappear from homepage."
+msgstr "اگر این گزینه را فعال کنید. بخش نمونه کار از صفحه اصلی حذف می شود."
+
+#: inc/customizer.php:2462 inc/customizer.php:2620
+msgid "Open portfolio in a lightbox?"
+msgstr "باز شدن نمونه کار در لایت باکس؟"
+
+#: inc/customizer.php:2474 inc/customizer.php:2632
+msgid "Maximum number of portfolios to display on homepage"
+msgstr "حداکثر تعداد نمایش نمونه کارها در صفحه اصلی"
+
+#: inc/customizer.php:2503 inc/customizer.php:2652 sections/portfolio.php:1
+msgid "Portfolio subtitle"
+msgstr "زیرنویس نمونه کار"
+
+#: inc/customizer.php:2516
+msgid "Single page"
+msgstr "برگه تکی"
+
+#: inc/customizer.php:2527 inc/customizer.php:2668
+msgid "Full width page?"
+msgstr "برگه تمام صفحه؟"
+
+#: inc/customizer.php:2528 inc/customizer.php:2669
+msgid ""
+"If you check this box, the single portfolio page will be full width, with no "
+"sidebar."
+msgstr ""
+"اگر شما این گزینه را فعال کنید برگه یک نمونه کار بصورت تمام صفحه و بدون "
+"سایدبار می شود."
+
+#: inc/customizer.php:2576 inc/customizer.php:2706
+msgid "Portfolio box texts"
+msgstr "متن های باکس نمونه کار"
+
+#: inc/customizer.php:2588 inc/customizer.php:2718
+msgid "Portfolio box title undeline color"
+msgstr "رنگ خط زیر عنوان باکس نمونه کار"
+
+#: inc/customizer.php:2739 inc/customizer.php:3135
+msgid "About us section"
+msgstr "بخش درباره ما"
+
+#: inc/customizer.php:2757 inc/customizer.php:3146
+msgid "Hide about us section?"
+msgstr "مخفی کردن بخش درباره ما؟"
+
+#: inc/customizer.php:2758 inc/customizer.php:3147
+msgid ""
+"If you check this box, the About us section will disappear from homepage."
+msgstr "اگر این گزینه را فعال کنید بخش درباره ما از صفحه اصلی حذف می شود."
+
+#: inc/customizer.php:2766 inc/customizer.php:4646 inc/customizer.php:5447
+msgid "Main content"
+msgstr "محتوای اصلی"
+
+#: inc/customizer.php:2774 inc/customizer.php:3155 sections/about_us.php:1
+msgid "About US"
+msgstr "درباره ما"
+
+#: inc/customizer.php:2787 inc/customizer.php:3167 sections/about_us.php:1
+msgid "Add a subtitle in Customizer, \"About us section\""
+msgstr "افزودن زیرنویس در سفارشی \"بخش درباره ما\""
+
+#: inc/customizer.php:2804 inc/customizer.php:3183
+msgid "Left side content"
+msgstr "محتوا در سمت چپ"
+
+#: inc/customizer.php:2812 inc/customizer.php:3191 sections/about_us.php:1
+msgid ""
+"You can add here a large piece of text. For that, please go in the Admin "
+"Area, Customizer, \"About us section\""
+msgstr ""
+"شما می توانید در اینجا متن طولانی اضافه کنید. لطفا به بخش درباره ما در پنل "
+"مدیریتی و بخش سفارشی مراجعه کنید"
+
+#: inc/customizer.php:2816 inc/customizer.php:3195
+msgid "Middle content"
+msgstr "محتوای میانی"
+
+#: inc/customizer.php:2824
+msgid "Feature no#1"
+msgstr "ویژگی شماره#1"
+
+#: inc/customizer.php:2833 inc/customizer.php:2891 inc/customizer.php:2948
+#: inc/customizer.php:3005 inc/customizer.php:3203 inc/customizer.php:3239
+#: inc/customizer.php:3275 inc/customizer.php:3311 sections/about_us.php:1
+msgid "Feature"
+msgstr "ویژگی"
+
+#: inc/customizer.php:2863 inc/customizer.php:2921
+msgid "Percentage"
+msgstr "درصد"
+
+#: inc/customizer.php:2874 inc/customizer.php:2932 inc/customizer.php:2989
+#: inc/customizer.php:3046
+msgid "Knob Color"
+msgstr "دستگیره رنگ"
+
+#: inc/customizer.php:2882
+msgid "Feature no#2"
+msgstr "ویژگی شماره#2"
+
+#: inc/customizer.php:2940
+msgid "Feature no#3"
+msgstr "ویژگی شماره#3"
+
+#: inc/customizer.php:2978 inc/customizer.php:3303
+msgid "Feature no3 percentage"
+msgstr "ویژگی شماره 3 درصد"
+
+#: inc/customizer.php:2997
+msgid "Feature no#4"
+msgstr "ویژگی شماره#4"
+
+#: inc/customizer.php:3035 inc/customizer.php:3339
+msgid "Feature no4 percentage"
+msgstr "ویژگی شماره 4 درصد"
+
+#: inc/customizer.php:3093 inc/customizer.php:3388
+msgid "Numbers color"
+msgstr "رنگ شماره ها"
+
+#: inc/customizer.php:3106 inc/customizer.php:3400
+msgid "Clients title color"
+msgstr "رنگ عنوان مشتری ها"
+
+#: inc/customizer.php:3114
+msgid "Clients area title"
+msgstr "عنوان ناحیه مشتری ها"
+
+#: inc/customizer.php:3121 inc/customizer.php:3371 sections/about_us.php:1
+msgid "OUR HAPPY CLIENTS"
+msgstr "مشتری های راضی ما"
+
+#: inc/customizer.php:3127 inc/customizer.php:3376
+msgid "This title appears only if you have widgets in the About us sidebar."
+msgstr ""
+"این عنوان تنها زمانی که ابزارک ها در بخش سایدبار درباره ما باشد ظاهر می شود"
+
+#: inc/customizer.php:3207
+msgid "Feature no1 title"
+msgstr "عنوان ویژگی شماره 1"
+
+#: inc/customizer.php:3218
+msgid "Feature no1 text"
+msgstr "متن ویژگی شماره 1"
+
+#: inc/customizer.php:3231
+msgid "Feature no1 percentage"
+msgstr "درصد  ویژگی شماره 1"
+
+#: inc/customizer.php:3243
+msgid "Feature no2 title"
+msgstr "عنوان ویژگی شماره 2"
+
+#: inc/customizer.php:3254
+msgid "Feature no2 text"
+msgstr "متن ویژگی شماره 2"
+
+#: inc/customizer.php:3267
+msgid "Feature no2 percentage"
+msgstr "درصد ویژگی شماره 2 (ترجمه رسمی توسط http://www.cgworld.asia )"
+
+#: inc/customizer.php:3279
+msgid "Feature no3 title"
+msgstr "عنوان ویژگی شماره 3"
+
+#: inc/customizer.php:3290
+msgid "Feature no3 text"
+msgstr "متن ویژگی شماره 3"
+
+#: inc/customizer.php:3315
+msgid "Feature no4 title"
+msgstr "عنوان ویژگی شماره 4"
+
+#: inc/customizer.php:3326
+msgid "Feature no4 text"
+msgstr "متن ویژگی شماره 1"
+
+#: inc/customizer.php:3375
+msgid "Clients widgets area title"
+msgstr "عنوان ناحیه ابزارک مشتری ها"
+
+#: inc/customizer.php:3421 inc/customizer.php:3617
+msgid "Our team section"
+msgstr "بخش تیم ما"
+
+#: inc/customizer.php:3440 inc/customizer.php:3628
+msgid "Hide our team section?"
+msgstr "بخش تیم ما مخفی شود؟"
+
+#: inc/customizer.php:3441 inc/customizer.php:3629
+msgid ""
+"If you check this box, the Our team section will disappear from homepage."
+msgstr "اگر این گزینه را فعال کنید بخش تیم ما در صفحه اصلی حذف می شود."
+
+#: inc/customizer.php:3457 inc/customizer.php:3637
+msgid "Our Team"
+msgstr "تیم ما"
+
+#: inc/customizer.php:3470 inc/customizer.php:3649
+msgid "Add a subtitle in Customizer, \"Our team section\""
+msgstr "افزودن زیرنویس در سفارشی\"بخش تیم ما\""
+
+#: inc/customizer.php:3524 inc/customizer.php:3689
+msgid "Team member hover description color"
+msgstr "هوور رنگ توضیحات اعضای تیم"
+
+#: inc/customizer.php:3536 inc/customizer.php:3701
+msgid "Team member hover description background color"
+msgstr "هوور رنگ پس زمینه توضیحات اعضای تیم"
+
+#: inc/customizer.php:3549 inc/customizer.php:3713
+msgid "Social icons colors"
+msgstr "رنگ های آیکون شبکه های اجتماعی"
+
+#: inc/customizer.php:3561 inc/customizer.php:3725
+msgid "Social icons colors - hover"
+msgstr "هوور - رنگ های آیکون های شبکه های اجتماعی"
+
+#: inc/customizer.php:3573 inc/customizer.php:3737
+msgid "First box title underline color"
+msgstr "رنگ زیر خط عنوان باکس اول"
+
+#: inc/customizer.php:3585 inc/customizer.php:3749
+msgid "Second box title underline color"
+msgstr "رنگ زیر خط عنوان باکس دوم"
+
+#: inc/customizer.php:3597 inc/customizer.php:3761
+msgid "Third box title underline color"
+msgstr "رنگ زیر خط عنوان باکس سوم"
+
+#: inc/customizer.php:3609 inc/customizer.php:3773
+msgid "Fourth box title underline color"
+msgstr "رنگ زیر خط عنوان باکس چهارم"
+
+#: inc/customizer.php:3790 inc/customizer.php:3951
+msgid "Testimonials section"
+msgstr "بخش گواهی نامه ها"
+
+#: inc/customizer.php:3809 inc/customizer.php:3962
+msgid "Hide testimonials section?"
+msgstr "بخش گواهی نامه ها مخفی شود؟"
+
+#: inc/customizer.php:3810 inc/customizer.php:3963
+msgid ""
+"If you check this box, the Testimonials section will disappear from homepage."
+msgstr "اگر این گزینه را فعال کنید بخش گواهی نامه ها از صفحه اصلی حذف می شود."
+
+#: inc/customizer.php:3821
+msgid "Use pinterest layout?"
+msgstr "استفاده از طرح پینترست؟"
+
+#: inc/customizer.php:3822
+msgid ""
+"If you check this box, the Testimonials section will use pinterest-style "
+"layout."
+msgstr ""
+"اگر این گزینه را فعال کنید بخش گواهی نامه ها از طرح استایل پینترست استفاده "
+"می کند"
+
+#: inc/customizer.php:3891 inc/customizer.php:4011 inc/customizer.php:5112
+#: inc/customizer.php:5233 inc/customizer.php:5843 inc/customizer.php:5951
+msgid "Title and subtitle colors"
+msgstr "رنگ های زیرنویس و عنوان"
+
+#: inc/customizer.php:3904 inc/customizer.php:4023
+msgid "Testimonial text color"
+msgstr "رنگ متن گواهی نامه"
+
+#: inc/customizer.php:3917 inc/customizer.php:4035
+msgid "Testimonial author name color"
+msgstr "رنگ نام نویسنده گواهی نامه"
+
+#: inc/customizer.php:3930 inc/customizer.php:4047
+msgid "Testimonial quote color"
+msgstr "رنگ نقل قول گواهی نامه"
+
+#: inc/customizer.php:3943 inc/customizer.php:4060
+msgid "Testimonial box background color"
+msgstr "رنگ پس زمینه باکس گواهی نامه"
+
+#: inc/customizer.php:4080 inc/customizer.php:4332
+msgid "Ribbon sections"
+msgstr "بخش های ریبون"
+
+#: inc/customizer.php:4084
+msgid "BottomButton Ribbon"
+msgstr "ریبون پائین دکمه"
+
+#: inc/customizer.php:4098 inc/customizer.php:4221
+msgid "Main text"
+msgstr "متن اصلی"
+
+#: inc/customizer.php:4111 inc/customizer.php:4234 inc/customizer.php:4356
+#: inc/customizer.php:4466
+msgid "The button link must be filled too, for the button to show up."
+msgstr "دکمه باید لینک شود تا نمایش داده شود"
+
+#: inc/customizer.php:4124 inc/customizer.php:4247 inc/customizer.php:4368
+#: inc/customizer.php:4478
+msgid "The button label must be filled too, for the button to show up."
+msgstr "دکمه لیبل باید داشته باشد تا نمایش داده شود"
+
+#: inc/customizer.php:4164 inc/customizer.php:4287 inc/customizer.php:5856
+#: inc/customizer.php:5963
+msgid "Button background color"
+msgstr "رنگ پس زمینه دکمه"
+
+#: inc/customizer.php:4176 inc/customizer.php:4299
+msgid "Button background color hover"
+msgstr "هوور رنگ پس زمینه دکمه"
+
+#: inc/customizer.php:4189 inc/customizer.php:4312 inc/customizer.php:4429
+#: inc/customizer.php:4539 inc/customizer.php:5881 inc/customizer.php:5987
+msgid "Button text color"
+msgstr "رنگ متن دکمه"
+
+#: inc/customizer.php:4201 inc/customizer.php:4324 inc/customizer.php:4441
+#: inc/customizer.php:4551
+msgid "Button text color hover"
+msgstr "هوور رنگ متن دکمه"
+
+#: inc/customizer.php:4209
+msgid "RightButton Ribbon"
+msgstr "ریبون راست دکمه"
+
+#: inc/customizer.php:4344
+msgid "BottomButton Ribbon - Main text"
+msgstr "متن اصلی - ریبون پائین دکمه"
+
+#: inc/customizer.php:4355
+msgid "BottomButton Ribbon - Button label"
+msgstr "لیبل دکمه - ریبون پائین دکمه"
+
+#: inc/customizer.php:4367
+msgid "BottomButton Ribbon - Button link"
+msgstr "لینک دکمه - ریبون پائین دکمه"
+
+#: inc/customizer.php:4380
+msgid "BottomButton Ribbon - background color"
+msgstr "رنگ پس زمینه - ریبون پائین دکمه"
+
+#: inc/customizer.php:4393
+msgid "BottomButton Ribbon - text color"
+msgstr "رنگ متن - ریبون پائین دکمه"
+
+#: inc/customizer.php:4405
+msgid "BottomButton Ribbon - button background color"
+msgstr "رنگ پس زمینه دکمه - ریبون پائین دکمه"
+
+#: inc/customizer.php:4417
+msgid "BottomButton Ribbon - button background color hover"
+msgstr "هوور رنگ پس زمینه دکمه - ریبون پائین دکمه"
+
+#: inc/customizer.php:4454
+msgid "RightButton Ribbon - Main text"
+msgstr "متن اصلی - ریبون راست دکمه"
+
+#: inc/customizer.php:4465
+msgid "RightButton Ribbon - Button label"
+msgstr "لیبل دکمه - ریبون راست دکمه"
+
+#: inc/customizer.php:4477
+msgid "RightButton Ribbon - Button link"
+msgstr "لینک دکمه - ریبون راست دکمه"
+
+#: inc/customizer.php:4490
+msgid "RightButton Ribbon - section background"
+msgstr "بخش پس زمینه - ریبون راست دکمه"
+
+#: inc/customizer.php:4503
+msgid "RightButton Ribbon - color text"
+msgstr "رنگ متن - ریبون راست دکمه"
+
+#: inc/customizer.php:4515
+msgid "RightButton Ribbon - button background color"
+msgstr "رنگ پس زمینه دکمه - ریبون راست دکمه"
+
+#: inc/customizer.php:4527
+msgid "RightButton Ribbon - button background color hover"
+msgstr "هوور رنگ پس زمینه دکمه - ریبون راست دکمه"
+
+#: inc/customizer.php:4570 inc/customizer.php:4828
+msgid "Contact us section"
+msgstr "بخش تماس با ما"
+
+#: inc/customizer.php:4589 inc/customizer.php:4839
+msgid "Hide contact us section?"
+msgstr "بخش تماس با ما مخفی شود؟"
+
+#: inc/customizer.php:4590 inc/customizer.php:4840
+msgid ""
+"If you check this box, the Contact us section will disappear from homepage."
+msgstr "اگر این گزینه را فعال کنید بخش تماس با ما از صفحه اصلی حذف می شود."
+
+#: inc/customizer.php:4601 inc/customizer.php:4874
+msgid "Email address"
+msgstr "آدرس ایمیل"
+
+#: inc/customizer.php:4602 inc/customizer.php:4875
+msgid "The contact us form is submitted to this email address."
+msgstr "فرم تماس با ما به این آدرس ایمیل ارسال می شود."
+
+#: inc/customizer.php:4614
+msgid "Hide reCaptcha?"
+msgstr "مخفی کردن reCaptcha ؟"
+
+#: inc/customizer.php:4615
+msgid ""
+"If you check this box, the reCaptcha will not be enabled on the Contact us "
+"form."
+msgstr "اگر این گزینه را فعال کنید reCaptcha از فرم تماس بام ما حذف می شود."
+
+#: inc/customizer.php:4626
+msgid "Site key"
+msgstr "کلید سایت"
+
+#: inc/customizer.php:4627
+msgid "Create an account here"
+msgstr "ساختن یک اکانت جدید"
+
+#: inc/customizer.php:4627
+msgid " to get the Site key and the Secret key for the reCaptcha."
+msgstr "برای گرفتن کلید سایت و کلید مخفی برای reCaptcha"
+
+#: inc/customizer.php:4638
+msgid "Secret key"
+msgstr "کلید مخفی"
+
+#: inc/customizer.php:4654 inc/customizer.php:4848
+msgid "Get in touch"
+msgstr "در تماس بودن"
+
+#: inc/customizer.php:4679 inc/customizer.php:4895
+msgid "Your Name"
+msgstr "نام شما"
+
+#: inc/customizer.php:4684 inc/customizer.php:4899
+msgid "Placeholder for \"Your Name\" input "
+msgstr "جا نگهدار برای ورودی \"نام شما\""
+
+#: inc/customizer.php:4692 inc/customizer.php:4907
+msgid "Your Email"
+msgstr "ایمیل شما"
+
+#: inc/customizer.php:4696 inc/customizer.php:4911
+msgid "Placeholder for \"Your Email\" input"
+msgstr "جا نگهدار برای ورودی \"ایمیل شما\""
+
+#: inc/customizer.php:4704 inc/customizer.php:4919
+msgid "Subject"
+msgstr "موضوع"
+
+#: inc/customizer.php:4709 inc/customizer.php:4923
+msgid "Placeholder for \"Subject\" input"
+msgstr "جا نگهدار برای ورودی \"موضوع\""
+
+#: inc/customizer.php:4717 inc/customizer.php:4931
+msgid "Your Message"
+msgstr "پیام شما"
+
+#: inc/customizer.php:4722 inc/customizer.php:4935
+msgid "Placeholder for \"Message\" input"
+msgstr "جا نگهدار برای ورودی \"پیام\""
+
+#: inc/customizer.php:4730 inc/customizer.php:4883
+msgid "Send Message"
+msgstr "ارسال پیام"
+
+#: inc/customizer.php:4735 inc/customizer.php:4887
+msgid "Send message button label"
+msgstr "لیبل دکمه ارسال پیام"
+
+#: inc/customizer.php:4770 inc/customizer.php:4960
+msgid "Title and subtitle color"
+msgstr "رنگ زیرنویس و عنوان"
+
+#: inc/customizer.php:4783 inc/customizer.php:4972
+msgid "Submit button background color"
+msgstr "رنگ پس زمینه دکمه ارسال"
+
+#: inc/customizer.php:4795 inc/customizer.php:4984
+msgid "Submit button background color - hover"
+msgstr "هوور - رنگ پس زمینه دکمه ارسال"
+
+#: inc/customizer.php:4808 inc/customizer.php:4996
+msgid "Submit button color"
+msgstr "رنگ دکمه ارسال"
+
+#: inc/customizer.php:4820 inc/customizer.php:5008
+msgid "Submit button color - hover"
+msgstr "هوور - رنگ دکمه ارسال"
+
+#: inc/customizer.php:5025 inc/customizer.php:5185
+msgid "Packages section"
+msgstr "بخش پکیج ها"
+
+#: inc/customizer.php:5044 inc/customizer.php:5196
+msgid "Show packages section?"
+msgstr "نمایش بخش پکیج ها"
+
+#: inc/customizer.php:5045 inc/customizer.php:5197
+msgid "If you check this box, the Packages section will appear on homepage."
+msgstr "اگر این گزینه را فعال کنید بخش پکیج ها در صفحه اصلی ظاهر می شود"
+
+#: inc/customizer.php:5061 inc/customizer.php:5205
+msgid "PACKAGES"
+msgstr "پکیج ها"
+
+#: inc/customizer.php:5074 inc/customizer.php:5217
+msgid ""
+"We have 4 friendly packages for you. Check all the packages and choose the "
+"right one for you."
+msgstr ""
+"برای شما 4 پکیج دوستانه داریم. همه را بررسی کرده و یکی که مناسب شماست انتخاب "
+"کنید."
+
+#: inc/customizer.php:5125 inc/customizer.php:5245
+msgid "Package title color"
+msgstr "رنگ عنوان پکیج"
+
+#: inc/customizer.php:5138 inc/customizer.php:5257
+msgid "Package text color"
+msgstr "رنگ متن پکیج"
+
+#: inc/customizer.php:5151 inc/customizer.php:5269
+msgid "Package button text color"
+msgstr "رنگ متن دکمه پکیج"
+
+#: inc/customizer.php:5164 inc/customizer.php:5281
+msgid "Package price background color"
+msgstr "رنگ پس زمینه قیمت پکیج"
+
+#: inc/customizer.php:5177 inc/customizer.php:5293
+msgid "Package price color"
+msgstr "رنگ قیمت پکیج"
+
+#: inc/customizer.php:5307
+msgid "Google map section"
+msgstr "بخش نقشه گوگل"
+
+#: inc/customizer.php:5318
+msgid "Show google map section?"
+msgstr "بخش نقشه گوگل نمایش داده شود؟"
+
+#: inc/customizer.php:5319
+msgid "If you check this box, the Google map section will appear on homepage."
+msgstr "اگر این گزینه را فعال کنید بخش نقشه گوگل در صفحه اصلی ظاهز می شود."
+
+#: inc/customizer.php:5327 sections/google_map.php:3
+msgid "New York, Leroy Street"
+msgstr "New York, Leroy Street"
+
+#: inc/customizer.php:5331
+msgid "Google map address"
+msgstr "آدرس نقشه گوگل"
+
+#: inc/customizer.php:5343
+msgid "Show STATIC google map ?"
+msgstr "نمایش نقشه گوگل بصورت استاتیک؟"
+
+#: inc/customizer.php:5344
+msgid ""
+"If you check this box, the Google map section will display as a static "
+"google map."
+msgstr ""
+"اگر این گزینه را فعال کنید بخش نقشه گوگل بصورت استاتیک نمایش داده می شود."
+
+#: inc/customizer.php:5357
+msgid "Intergeo Shortcode"
+msgstr "کد کوتاه Intergeo "
+
+#: inc/customizer.php:5385 inc/customizer.php:5583
+msgid "Latest news section"
+msgstr "بخش جدیدترین احبار"
+
+#: inc/customizer.php:5404 inc/customizer.php:5594
+msgid "Show latest news section?"
+msgstr "بخش جدیدترین اخبار نمایش داده شود؟"
+
+#: inc/customizer.php:5405 inc/customizer.php:5595
+msgid "If you check this box, the Latest news section will appear on homepage."
+msgstr ""
+"اگر این گزینه را فعال کنید بخش جدیدترین اخبار در صفحه اصلی ظاهر می شود."
+
+#: inc/customizer.php:5421 inc/customizer.php:5603 sections/latest_news.php:33
+msgid "LATEST NEWS"
+msgstr "جدیدترین اخبار"
+
+#: inc/customizer.php:5434 inc/customizer.php:5616 sections/latest_news.php:47
+msgid "Add a subtitle in Customizer, \"Latest news section\""
+msgstr "افزودن زیرنویس در سفارشی \"بخش جدیدترین اخبار\""
+
+#: inc/customizer.php:5488 inc/customizer.php:5647
+msgid "Title color"
+msgstr "رنگ عنوان"
+
+#: inc/customizer.php:5501 inc/customizer.php:5660
+msgid "Subtitle color"
+msgstr "رنگ زیرنویس"
+
+#: inc/customizer.php:5514 inc/customizer.php:5673
+msgid "Post title color"
+msgstr "رنگ عنوان نوشته"
+
+#: inc/customizer.php:5526 inc/customizer.php:5686
+msgid "Post title underline color - first box"
+msgstr "باکس اول - رنگ زیر خط عنوان نوشته"
+
+#: inc/customizer.php:5538 inc/customizer.php:5699
+msgid "Post title underline color - second box"
+msgstr "باکس دوم - رنگ زیر خط عنوان نوشته"
+
+#: inc/customizer.php:5550 inc/customizer.php:5712
+msgid "Post title underline color - third box"
+msgstr "باکس سوم - رنگ زیر خط عنوان نوشته"
+
+#: inc/customizer.php:5562 inc/customizer.php:5725
+msgid "Post title underline color - fourth box"
+msgstr "باکس چهارم - رنگ زیر خط عنوان نوشته"
+
+#: inc/customizer.php:5575 inc/customizer.php:5738
+msgid "Post content color"
+msgstr "رنگ محتوای نوشته"
+
+#: inc/customizer.php:5755 inc/customizer.php:5889
+msgid "Subscribe section"
+msgstr "بخش اشتراک"
+
+#: inc/customizer.php:5774 inc/customizer.php:5901
+msgid "Show subscribe section?"
+msgstr "بخش اشتراک نمایش داده شود؟"
+
+#: inc/customizer.php:5775 inc/customizer.php:5902
+msgid "If you check this box, the Subscribe section will appear on homepage."
+msgstr "اگر این گزینه را فعال کنید بخش اشتراک در صفحه اصلی ظاهر می شود."
+
+#: inc/customizer.php:5791 inc/customizer.php:5910
+msgid "STAY IN TOUCH"
+msgstr "در تماس باش"
+
+#: inc/customizer.php:5804 inc/customizer.php:5922
+msgid "Sign Up for Email Updates on on News & Offers"
+msgstr "با ایمیل خود برای دریافت اخبار و پیشنهادات ما ثبت نام کنید"
+
+#: inc/customizer.php:5868 inc/customizer.php:5975
+msgid "Button background color - hover"
+msgstr "هوور - رنگ پس زمینه دکمه"
+
+#: inc/customizer.php:5891
+msgid ""
+"For this section to work properly, you must add the \"SendinBlue Widget\" to "
+"the \"Subscribe section\" widgets area"
+msgstr ""
+"برای اینکه این بخش بدرستی کار کند شما باید \"ابزارک SendinBlue\" را در ناحیه "
+"ابزارک \"بخش اشتراک\" اضافه کنید"
+
+#: inc/customizer.php:6006
+msgid "Background"
+msgstr "پس زمینه"
+
+#: inc/customizer.php:6012 inc/customizer.php:6283
+msgid "Background settings"
+msgstr "تنظیمات پس زمینه"
+
+#: inc/customizer.php:6023 inc/customizer.php:6294
+msgid "Type of background"
+msgstr "نوع پس زمینه"
+
+#: inc/customizer.php:6024
+msgid ""
+"Select the type of background you want. <b>Make sure you also set up the "
+"images/video in their corresponding places, down below.</b>"
+msgstr ""
+"نوع پس زمینه ای را که میخواهید انتخاب کنید.<b>مطمئن شوید که یک تصویر یا "
+"ویدئو برای این بخش انتخاب کرده باشید</b>"
+
+#: inc/customizer.php:6027 inc/customizer.php:6298
+msgid "Background image"
+msgstr "تصویر پس زمینه"
+
+#: inc/customizer.php:6028 inc/customizer.php:6040 inc/customizer.php:6299
+#: inc/customizer.php:6306
+msgid "Background slider"
+msgstr "اسلایدر پس زمینه"
+
+#: inc/customizer.php:6029 inc/customizer.php:6300
+msgid "Background video"
+msgstr "ویدئو پس زمینه"
+
+#: inc/customizer.php:6066 inc/customizer.php:6125 inc/customizer.php:6187
+#: inc/customizer.php:6331 inc/customizer.php:6393 inc/customizer.php:6455
+msgid "Top"
+msgstr "بالا"
+
+#: inc/customizer.php:6067 inc/customizer.php:6081 inc/customizer.php:6126
+#: inc/customizer.php:6143 inc/customizer.php:6188 inc/customizer.php:6205
+#: inc/customizer.php:6332 inc/customizer.php:6349 inc/customizer.php:6394
+#: inc/customizer.php:6411 inc/customizer.php:6456 inc/customizer.php:6473
+msgid "Center"
+msgstr "وسط"
+
+#: inc/customizer.php:6068 inc/customizer.php:6127 inc/customizer.php:6189
+#: inc/customizer.php:6333 inc/customizer.php:6395 inc/customizer.php:6457
+msgid "Bottom"
+msgstr "پائین"
+
+#: inc/customizer.php:6080 inc/customizer.php:6142 inc/customizer.php:6204
+#: inc/customizer.php:6348 inc/customizer.php:6410 inc/customizer.php:6472
+msgid "Left"
+msgstr "چپ"
+
+#: inc/customizer.php:6082 inc/customizer.php:6144 inc/customizer.php:6206
+#: inc/customizer.php:6350 inc/customizer.php:6412 inc/customizer.php:6474
+msgid "Right"
+msgstr "راست"
+
+#: inc/customizer.php:6097 inc/customizer.php:6159 inc/customizer.php:6221
+#: inc/customizer.php:6365 inc/customizer.php:6427 inc/customizer.php:6489
+msgid "Cover"
+msgstr "پوشش"
+
+#: inc/customizer.php:6098 inc/customizer.php:6160 inc/customizer.php:6222
+#: inc/customizer.php:6366 inc/customizer.php:6428 inc/customizer.php:6490
+msgid "width 100%"
+msgstr "عرض 100%"
+
+#: inc/customizer.php:6099 inc/customizer.php:6161 inc/customizer.php:6223
+#: inc/customizer.php:6367 inc/customizer.php:6429 inc/customizer.php:6491
+msgid "Height 100%"
+msgstr "طول 100%"
+
+#: inc/customizer.php:6172 inc/customizer.php:6440
+msgid "Image 3"
+msgstr "تصویر 3"
+
+#: inc/customizer.php:6230 inc/customizer.php:6498
+msgid "Background Video"
+msgstr "ویدئوی پس زمینه"
+
+#: inc/customizer.php:6241 inc/customizer.php:6507
+msgid "Video file"
+msgstr "فایل ویدئو"
+
+#: inc/customizer.php:6242 inc/customizer.php:6508
+msgid "mp4 format file"
+msgstr "فرمت فایل mp4"
+
+#: inc/customizer.php:6252 inc/customizer.php:6519
+msgid "Video thumbnail"
+msgstr "تصویر بندانگشتی ویدئو"
+
+#: inc/customizer.php:6253 inc/customizer.php:6520
+msgid ""
+"This image will appear while the video is downloading. If this is not "
+"included, the first frame of the video will be used instead."
+msgstr ""
+"این تصویر وقتی که ویدئو درحال دانلود شدن است نمایش داده می شود. اگر این "
+"تصویر نباشد اولین فریم فایل ویدئو جایگزین می شود."
+
+#: inc/customizer.php:6274 inc/customizer.php:6541
+msgid "Enable sound"
+msgstr "فعال کردن صدا"
+
+#: inc/customizer.php:6295
+msgid "Select the type of background you want."
+msgstr "انتخاب نوع پس زمینه ای که می خواهید"
+
+#: inc/cwp-update.php:319
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+"بروزرسنای این قالب باعث می شود تمام سفارشی سازی هایی که انجام داده ازدست "
+"برود.\"کنسل\"برای توقف.\"اوکی\"برای بروزرسانی"
+
+#: inc/template-tags.php:17
+msgid "Posts navigation"
+msgstr "ناوبری نوشته ها"
+
+#: inc/template-tags.php:20
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> نوشته های قدیمی"
+
+#: inc/template-tags.php:23
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "نوشته های جدید <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:43
+msgid "Post navigation"
+msgstr "ناوبری نوشته"
+
+#: inc/template-tags.php:46
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: inc/template-tags.php:47
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:69
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+"<span class=\"posted-on\">نوشته شده در تاریخ %1$s</span><span class=\"byline"
+"\"> توسط %2$s</span>"
+
+#: inc/template-tags.php:170
+#, php-format
+msgid "Page %s"
+msgstr "برگه %s"
+
+#: inc/template-tags.php:203
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "متاسفانه برگه مورد نظر یافت نشد."
+
+#: inc/template-tags.php:209
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr "چیزی یافت نشد.از لینک های زیر استفاده کنید یا جستجو را بکار برید."
+
+#: search.php:1
+#, php-format
+msgid "Search Results for: %s"
+msgstr "نتیجه جستجو برای: %s"
+
+#: sections/latest_news.php:167
+msgid "Previous"
+msgstr "قبلی"
+
+#: sections/latest_news.php:171
+msgid "Next"
+msgstr "بعدی"
+
+#: sections/portfolio.php:1
+msgid "Close"
+msgstr "بستن"
+
+#: sections/portfolio.php:1
+msgid "Go Back"
+msgstr "بازگشت"
+
+#: sidebar.php:1
+msgid "Meta"
+msgstr "متا"
+
+#. Theme Name of the plugin/theme
+msgid "Zerif PRO"
+msgstr "قالب Zerif PRO"
+
+#. Theme URI of the plugin/theme
+msgid "https://themeisle.com/themes/zerif-pro-one-page-wordpress-theme/"
+msgstr "https://themeisle.com/themes/zerif-pro-one-page-wordpress-theme/"
+
+#. Description of the plugin/theme
+msgid ""
+"Zerif PRO is a modern responsive WordPress Theme. It's perfect for web "
+"agencies, digital studios, corporate, product showcase, personal and "
+"business portfolio."
+msgstr ""
+"قابل واکنش گرا و حرفه ای Zerif PRO مناسب برای شرکت ها،استدیوهای دیجیتال،کسب "
+"و کار شخصی و نمونه کارهای بازرگانی."
+
+#. Author of the plugin/theme
+msgid "Themeisle"
+msgstr "Themeisle"
+
+#. Author URI of the plugin/theme
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
